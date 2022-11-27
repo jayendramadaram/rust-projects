@@ -1,0 +1,8 @@
+[workspace]
+members =[
+   "TESTING",
+   "guessgame"
+]
+
+# [dependencies]
+# utf8_slice = "1.0.0"
