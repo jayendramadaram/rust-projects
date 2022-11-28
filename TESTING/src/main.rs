@@ -1,3 +1,7 @@
+
+mod  LinkedList;
+
 fn main() {
-    println!("Hello, world!");
+    print!("hello");
+    LinkedList::main();
 }
